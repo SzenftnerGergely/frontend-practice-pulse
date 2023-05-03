@@ -175,6 +175,8 @@ main {
     background-color: white;
     border: solid 1px #00ad6a;
     border-radius: 5px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
     padding-bottom: 30px;
 }
 
